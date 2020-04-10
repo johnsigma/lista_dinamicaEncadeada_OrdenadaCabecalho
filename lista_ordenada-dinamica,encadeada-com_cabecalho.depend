@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556588173 source:c:\users\johnz\desktop\programação\aed1\trabalho1\06\lista_ordenada(dinâmica,encadeada)_com_cabeçalho\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1556511355 c:\users\johnz\desktop\programação\aed1\trabalho1\06\lista_ordenada(dinâmica,encadeada)_com_cabeçalho\lista.h
+
+1556519437 source:c:\users\johnz\desktop\programação\aed1\trabalho1\06\lista_ordenada(dinâmica,encadeada)_com_cabeçalho\user.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
